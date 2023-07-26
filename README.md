@@ -5,3 +5,4 @@ GWU Data Analytics Bootcamp Module 7
 2. Amie Shank
 3. Bolima Tafah 
 4. Amber Amparo
+5. Arjay Thakoorie
