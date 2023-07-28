@@ -1,5 +1,9 @@
 .DS_store
 
+#added to keep api_keys file private
+api_keys.py
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
